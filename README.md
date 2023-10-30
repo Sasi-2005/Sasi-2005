@@ -20,7 +20,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/sasibhusanabehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sasibhusanabehera" height="30" width="40" /></a>
 <a href="https://instagram.com/_sasi_bhusana_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sasi_bhusana_/" height="30" width="40" /></a>
 <a href="https://medium.com/@sasibhusana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sasibhusana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sasibhusana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sasibhusana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sasibhusana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sasibhusana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
